@@ -8,3 +8,6 @@ I developed a stock price prediction system utilizing advanced machine learning 
 🧠 Machine Learning Models: Implemented LSTM (Long Short-Term Memory) networks to capture sequential patterns in stock prices.
 📈 Results: Achieved insightful predictions that can assist investors in making data-driven decisions.
 🌟 This project enhanced my skills in data analysis, deep learning, and financial forecasting while reinforcing the importance of accurate data preprocessing and robust model evaluation.
+
+
+dataset link=https://www.kaggle.com/datasets/tejasurya/itc-stock-price-prediction
